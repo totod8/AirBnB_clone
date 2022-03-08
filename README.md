@@ -39,7 +39,7 @@ The folder models contains all the classes used in this project.
 (hbnb) help
 
 Documented commands (type help <topic>):
-========================================
+----------------------------------------
 EOF  all  create  destroy  help  quit  show  update
 
 
