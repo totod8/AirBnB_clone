@@ -35,8 +35,12 @@ The folder models contains all the classes used in this project.
 | review.py | Review class for future user/host review information | place_id, user_id, text |
 
 # Examples
+# mode no-interactivo
+(hbnb) help
 
-
+Documented commands (type help <topic>):
+========================================
+EOF  all  create  destroy  help  quit  show  update
 
 
 # Authors
