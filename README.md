@@ -34,7 +34,12 @@ The folder models contains all the classes used in this project.
 | place.py | Place class for future accomodation information | city_id, user_id, name, description, number_rooms, number_bathrooms, max_guest, price_by_night, latitude, longitude, amenity_ids |
 | review.py | Review class for future user/host review information | place_id, user_id, text |
 
+# Examples
+
+
+
+
 # Authors
 
 * Hernán Echeverri R <3883@holbertonschool.com>
-* Andres Felipe Duque <3504@holbertonschool.com>
+ Andres Felipe Duque <3504@holbertonschool.com>
