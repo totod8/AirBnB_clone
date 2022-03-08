@@ -35,7 +35,7 @@ The folder models contains all the classes used in this project.
 | review.py | Review class for future user/host review information | place_id, user_id, text |
 
 # Examples
-**modo no-interactive**
+modo no-interactive**
 
 (hbnb) help
 
@@ -46,7 +46,20 @@ Documented commands (type help <topic>):
 EOF  all  create  destroy  help  quit  show  update
 
 
+
+**Mode interactive**
+
+**create**:
+
+(hbnb) create User
+64be5ef5-0ed1-40ea-a875-c06f999c6d73
+
+**all**:
+
+(hbnb) all
+["[User] (a1d3378b-0d7e-439c-8698-2dabba9f91d0) {'id': 'a1d3378b-0d7e-439c-8698-2dabba9f91d0', 'created_at': datetime.datetime(2022, 3, 7, 19, 28, 34, 785476), 'updated_at': datetime.datetime(2022, 3, 7, 19, 28, 34, 785490)}", "[City] (e596a16f-2fca-4f57-822a-d7fddc931489) {'id': 'e596a16f-2fca-4f57-822a-d7fddc931489', 'created_at': datetime.datetime(2022, 3, 7, 19, 31, 10, 105824), 'updated_at': datetime.datetime(2022, 3, 7, 19, 31, 10, 105837)}", "[User] (a75b3922-ff49-4fdb-8f76-7c03e3ed2510) {'id': 'a75b3922-ff49-4fdb-8f76-7c03e3ed2510', 'created_at': datetime.datetime(2022, 3, 7, 19, 35, 37, 288931), 'updated_at': datetime.datetime(2022, 3, 7, 19, 35, 37, 288947)}", "[City] (21a7c366-163a-428c-a0c7-5b1a28458cb3) {'id': '21a7c366-163a-428c-a0c7-5b1a28458cb3', 'created_at': datetime.datetime(2022, 3, 7, 19, 35, 44, 79948), 'updated_at': datetime.datetime(2022, 3, 7, 19, 35, 44, 79963)}", "[User] (1a4fb60d-a7f7-4d6f-a9a1-a381bdc8bd3f) {'id': '1a4fb60d-a7f7-4d6f-a9a1-a381bdc8bd3f', 'created_at': datetime.datetime(2022, 3, 8, 12, 43, 26, 806884), 'updated_at': datetime.datetime(2022, 3, 8, 12, 43, 26, 806896)}", "[User] (64be5ef5-0ed1-40ea-a875-c06f999c6d73) {'id': '64be5ef5-0ed1-40ea-a875-c06f999c6d73', 'created_at': datetime.datetime(2022, 3, 8, 13, 31, 50, 498804), 'updated_at': datetime.datetime(2022, 3, 8, 13, 31, 50, 498820)}"]
+
 # Authors
 
 Hernán Echeverri R <3883@holbertonschool.com>
-Andres Felipe Duque <3504@holbertonschool.com>
+Andres Felipe Duque <3504@holbertonschool.com
