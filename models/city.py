@@ -8,4 +8,4 @@ class City(BaseModel):
     Created two public class attributes. """
 
     state_id = ""
-    name = ""
+    name = 
