@@ -36,7 +36,7 @@ The folder models contains all the classes used in this project.
 
 # Examples
 
- modo no-interactive**
+ **modo no-interactive**
 
 (hbnb) help
 
@@ -50,6 +50,4 @@ EOF  all  create  destroy  help  quit  show  update
 # Authors
 
 * Hernán Echeverri R <3883@holbertonschool.com>
-* Andres Felipe Duque <3504@holbertonschool.com>*
-
-
+  Andres Felipe Duque <3504@holbertonschool.com
